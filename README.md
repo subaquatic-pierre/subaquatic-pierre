@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and always aiming for mastery.
 - 🎓 &nbsp; Studying at the University of Life.
 - 💼 &nbsp; Freelance Web Developer and Entrepreneur.
-- 🌱 &nbsp; Learning more about Design Patterns and Dev-Ops.
+- 🌱 &nbsp; Learning more about OOP Design Patterns and Dev-Ops.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
