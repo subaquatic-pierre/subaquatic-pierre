@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying at the University of Life.
 - 💼 &nbsp; Freelance Web Developer and Entrepenuer.
 - 🌱 &nbsp; Learning more about Design Patterns and Dev-Ops.
-- ✍️ &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
+- 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -16,8 +16,6 @@
 - 🔧 &nbsp; Git | Linux | VS Code | AWS
 
 <br/>
-
-[![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subaquatic-pierre&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
