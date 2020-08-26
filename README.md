@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and always aiming for mastery.
 - 🎓 &nbsp; Studying at the University of Life.
-- 💼 &nbsp; Freelance Web Developer and Entrepenuer.
+- 💼 &nbsp; Freelance Web Developer and Entrepreneur.
 - 🌱 &nbsp; Learning more about Design Patterns and Dev-Ops.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
