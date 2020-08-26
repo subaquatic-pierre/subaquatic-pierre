@@ -2,22 +2,22 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and always aiming for mastery.
 - 🎓 &nbsp; Studying at the University of Life.
-- 💼 &nbsp; Working as a Freelance Web Developer and Entrepenuer.
+- 💼 &nbsp; Freelance Web Developer and Entrepenuer.
 - 🌱 &nbsp; Learning more about Design Patterns and Dev-Ops.
-- ✍️ &nbsp; Scuba Diving when not writting code.
+- ✍️ &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Material UI | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; Git | Linux | VS Code 
+- 🔧 &nbsp; Git | Linux | VS Code | AWS
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subaquatic-pierre&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
