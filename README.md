@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and always aiming for mastery.
-- 🎓 &nbsp; Studying at the Univeristy of Life.
 - 💼 &nbsp; Freelance Web Developer and Entrepreneur.
-- 🌱 &nbsp; Learning more about Design Patterns, Data Structures, Algorithms and Dev-Ops.
+- 🤔 &nbsp; Exploring internet technologies and honing my skills.
+- 🎓 &nbsp; Studying Design Patterns and Dev-Ops.
+- 🌱 &nbsp; Blockchain technology enthusiast.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Material UI | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; Git | Linux | VS Code | AWS
+- 🔧 &nbsp; AWS | Git | Linux | VS Code
 
 <br/>
 
