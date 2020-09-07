@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Freelance Web Developer and Entrepreneur.
+- 💼 &nbsp; Full Stack Web Developer and Cloud Architect.
 - 🤔 &nbsp; Exploring internet technologies and honing my skills.
 - 🎓 &nbsp; Studying Design Patterns and Dev-Ops.
 - 🌱 &nbsp; Blockchain technology enthusiast.
@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Material UI | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; AWS | Git | Linux | VS Code
+- 🔧 &nbsp; AWS | Azure | Git | Linux | VS Code
 
 <br/>
 
