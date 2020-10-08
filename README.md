@@ -2,16 +2,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Full Stack Web Developer and Cloud Architect.
-- 🤔 &nbsp; Exploring internet technologies and honing my skills.
-- 🎓 &nbsp; Studying Design Patterns and Dev-Ops.
+- 💼 &nbsp; Web Developer and Cloud Architect.
+- 🤔 &nbsp; Always looking towards skill mastery.
+- 🎓 &nbsp; Focusing on Design Patterns and Dev-Ops.
 - 🌱 &nbsp; Blockchain technology enthusiast.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript 
-- 🌐 &nbsp; HTML | CSS | Material UI | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Python | Javascript | Typescript
+- 🌐 &nbsp; Material UI | Bootstrap 4 | ReactJS
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; AWS | Azure | Git | Linux | VS Code
 
