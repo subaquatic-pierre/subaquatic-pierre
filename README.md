@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Web Developer and Cloud Architect.
-- 🤔 &nbsp; Always looking towards skill mastery.
+- 🤔 &nbsp; The only person we should be better than is the person we were yesterday.
 - 🎓 &nbsp; Studying Design Patterns and DevOps.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
