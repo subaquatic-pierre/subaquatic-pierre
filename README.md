@@ -12,7 +12,7 @@
 - 💻 &nbsp; Python | Javascript | Typescript
 - 🌐 &nbsp; Material UI | Bootstrap 4 | ReactJS
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; AWS | Azure | Git | Linux | VS Code
+- 🔧 &nbsp; AWS | Azure | Git | Linux 
 
 <br/>
 
