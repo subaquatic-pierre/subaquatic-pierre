@@ -4,8 +4,7 @@
 
 - 💼 &nbsp; Web Developer and Cloud Architect.
 - 🤔 &nbsp; Always looking towards skill mastery.
-- 🎓 &nbsp; Focusing on Design Patterns and Dev-Ops.
-- 🌱 &nbsp; Blockchain technology enthusiast.
+- 🎓 &nbsp; Studying Design Patterns and DevOps.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
