@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; Web Developer and Cloud Engineer.
 - 🤔 &nbsp; The only person we should be better than is the person we were yesterday.
-- 🎓 &nbsp; Studying Design Patterns and DevOps.
+- 🎓 &nbsp; Studying Design Patterns and DevSecOps.
 - 🐠 &nbsp; When I'm not building awesome web applicaions, I am underwater taking awesome pictures.
 
 <h3>🛠 Tech Stack</h3>
