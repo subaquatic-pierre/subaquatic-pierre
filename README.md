@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Software Developer and Cloud Engineer.
-- 👨‍🚀 &nbsp; When I'm not building awesome web applicaions, I am teaching technical scuba diving.
+- 👨‍🚀 &nbsp; When I'm not building awesome apps, I am teaching technical scuba diving.
 
 <h3>🛠 Tech Stack</h3>
 
