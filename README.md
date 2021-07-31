@@ -8,7 +8,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript | Typescript
-- 🌐 &nbsp; Django | Flask | Express JS
+- 🌐 &nbsp; Django | Flask | NodeJS
 - 🔌 &nbsp; Material UI | Bootstrap 4 | ReactJS
 - 🛢 &nbsp; PostgreSQL | GraphQL | MongoDB
 - 🔧 &nbsp; AWS | Azure | Git | Linux 
