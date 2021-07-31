@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Web Developer and Cloud Engineer.
-- 🐠 &nbsp; When I'm not building awesome web applicaions, I am teaching technical scuba diving.
+- 💼 &nbsp; Software Developer and Cloud Engineer.
+- 👨‍🚀 &nbsp; When I'm not building awesome web applicaions, I am teaching technical scuba diving.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript | Typescript
 - 🌐 &nbsp; Django | Flask | Express JS
-- 🌐 &nbsp; Material UI | Bootstrap 4 | ReactJS
+- 🔌 &nbsp; Material UI | Bootstrap 4 | ReactJS
 - 🛢 &nbsp; PostgreSQL | GraphQL | MongoDB
 - 🔧 &nbsp; AWS | Azure | Git | Linux 
 
