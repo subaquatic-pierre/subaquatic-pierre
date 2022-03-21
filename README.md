@@ -3,15 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Software Developer and Cloud Engineer.
-- 👨‍🚀 &nbsp; When I'm not building awesome apps, I am teaching technical scuba diving.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Typescript
+- 💻 &nbsp; Typescript | Python | Javascript
+- 🔌 &nbsp; Material UI | ReactJS
 - 🌐 &nbsp; Django | Flask | NodeJS
-- 🔌 &nbsp; Material UI | Bootstrap 4 | ReactJS
-- 🛢 &nbsp; PostgreSQL | GraphQL | MongoDB
-- 🔧 &nbsp; AWS | Azure | Git | Linux 
+- 🔧 &nbsp; AWS | Git | Linux 
 
 <br/>
 
