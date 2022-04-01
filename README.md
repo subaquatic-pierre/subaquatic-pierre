@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Software Developer and Cloud Engineer.
+- 💼 &nbsp; Software Engineer
+- 💼 &nbsp; Cloud Architect
 
 <h3>🛠 Tech Stack</h3>
 
