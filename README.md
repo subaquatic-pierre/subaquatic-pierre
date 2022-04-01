@@ -2,14 +2,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Software Engineer
-- 💼 &nbsp; Cloud Architect
+- 🌎 &nbsp; Self-taught Software Engineer and cloud architect
+- 🔬 &nbsp; I have apassion for everything web tech
+- 💡 &nbsp; Specializing in both front and backend technologies
+- 💼 &nbsp; Blockchain and Web3 enthusiast
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Typescript | Python | Javascript
 - 🔌 &nbsp; Material UI | ReactJS
 - 🌐 &nbsp; Django | Flask | NodeJS
+- 💎 &nbsp; Terraform
 - 🔧 &nbsp; AWS | Git | Linux 
 
 <br/>
