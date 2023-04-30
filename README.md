@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌎 &nbsp; Software Engineer and Cloud architect
+- 🌎 &nbsp; Software Engineer | Cloud architect
 - 🔬 &nbsp; I have apassion for everything web tech
 - 💡 &nbsp; Specializing in both front and backend technologies
 - 💼 &nbsp; Blockchain and Web3 enthusiast
