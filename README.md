@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Python | Javascript | Rust
+- 💻 &nbsp; Typescript | Python | Rust
 - 🔌 &nbsp; Material UI | ReactJS
 - 🌐 &nbsp; Django | Flask | NodeJS
 - 💎 &nbsp; Terraform | Docker | Kubernetes
