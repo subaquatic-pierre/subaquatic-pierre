@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Typescript | Python | Rust
 - 🔌 &nbsp; Material UI | ReactJS
-- 🌐 &nbsp; Django | Flask | NodeJS
+- 🌐 &nbsp; Django | Flask | NextJS
 - 💎 &nbsp; Terraform | Docker | Kubernetes
 - 🔧 &nbsp; AWS | Git | Linux 
 
