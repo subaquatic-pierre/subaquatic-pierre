@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌎 &nbsp; Full Stack | Cloud architect
+- 🌎 &nbsp; Softare Engineer ⚙️ | Cloud Architect 🌐
 - 🔬 &nbsp; I have apassion for everything web tech
 - 💡 &nbsp; Specializing in both front and backend technologies
-- 💼 &nbsp; Blockchain and Web3 enthusiast
+- 💼 &nbsp; Blockchain and Web3 pioneer
 
 <h3>🛠 Tech Stack</h3>
 
