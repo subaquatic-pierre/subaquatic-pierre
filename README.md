@@ -7,6 +7,7 @@
 - 🌠 &nbsp; Micro-service solutions
 
 <h3> 👨 Design Philosy </h3>
+
 - 💡 &nbsp; `Simple > Complex`
 - 💡 &nbsp; `Explicit > Implicit`
 - 💡 &nbsp; `!!Script Automation`
