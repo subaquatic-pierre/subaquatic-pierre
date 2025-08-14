@@ -5,12 +5,7 @@
 - ⚙️ &nbsp; Softare Engineer
 - 🌐 &nbsp; Cloud Architect
 - 🌠 &nbsp; Micro-service solutions
-
-<h3> 👨 Design Philosy </h3>
-
-- 💡 &nbsp; `Simple > Complex`
-- 💡 &nbsp; `Explicit > Implicit`
-- 💡 &nbsp; `!!Script Automation`
+- 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3>🛠 Tech Stack</h3>
 
