@@ -2,7 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌎 &nbsp; Softare Engineer ⚙️ | Cloud Architect 🌐
+- ⚙️ &nbsp; Softare Engineer
+- 🌐 &nbsp; Cloud Architect
+- 🌐 &nbsp; Micro-service solutions
+- 💡 &nbsp; `!!Script Automation`
 - 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3>🛠 Tech Stack</h3>
@@ -12,7 +15,8 @@
 - 🌐 &nbsp; Django | NextJS
 - 🗄️ &nbsp; MongoDB | PostgresQL
 - 💎 &nbsp; Terraform | Docker | Kubernetes
-- 🔧 &nbsp; AWS | Git | Linux 
+- ☁️ &nbsp; AWS | GCP
+- 🔧 &nbsp; Git | Linux 
 
 <br/>
 
