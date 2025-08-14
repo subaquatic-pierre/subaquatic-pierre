@@ -4,8 +4,7 @@
 
 - 🌎 &nbsp; Softare Engineer ⚙️ | Cloud Architect 🌐
 - 🔬 &nbsp; I have apassion for everything web tech
-- 💡 &nbsp; Specializing in both front and backend technologies
-- 💼 &nbsp; Blockchain and Web3 pioneer
+- 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3>🛠 Tech Stack</h3>
 
