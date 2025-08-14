@@ -4,7 +4,7 @@
 
 - ⚙️ &nbsp; Softare Engineer
 - 🌐 &nbsp; Cloud Architect
-- 🌐 &nbsp; Micro-service solutions
+- 🌠 &nbsp; Micro-service solutions
 - 💡 &nbsp; `!!Script Automation`
 - 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
