@@ -1,10 +1,10 @@
 <h2> Hey there! I'm Pierre.</h2>
-💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌎 &nbsp; Softare Engineer ⚙️ | Cloud Architect 🌐
 - 🔬 &nbsp; I have apassion for everything web tech
+- 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3>🛠 Tech Stack</h3>
 
