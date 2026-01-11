@@ -5,7 +5,6 @@
 - ⚙️ &nbsp; Softare Engineer
 - 🌐 &nbsp; Cloud Architect
 - 🌠 &nbsp; Micro-service solutions
-- 💡 &nbsp; `Simple > Complex && Explicit > Implicit`
 
 <h3>🛠 Tech Stack</h3>
 
