@@ -2,19 +2,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- ⚙️ &nbsp; Softare Engineer
-- 🌐 &nbsp; Cloud Architect
-- 🌠 &nbsp; Micro-service solutions
+- ⚙️ &nbsp; **Systems & Performance Engineer** specializing in Rust.
+- 📈 &nbsp; **Quant Developer** focused on low-latency trading engines.
+- 🏗️ &nbsp; **Multi-Certified Cloud Architect** (CKA, GCP-PCA, AWS).
+- 🌠 &nbsp; **First-Principles Problem Solver** from kernels to distributed systems.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Technical Arsenal</h3>
 
-- 💻 &nbsp; Typescript | Python | Rust
-- 🔌 &nbsp; ExpressJS | FastAPI
-- 🌐 &nbsp; Django | NextJS
-- 🗄️ &nbsp; MongoDB | PostgresQL
-- 💎 &nbsp; Terraform | Docker | Kubernetes
-- ☁️ &nbsp; AWS | GCP
-- 🔧 &nbsp; Git | Linux 
+- 🦀 &nbsp; **Languages:** Rust (Expert), Python, C++ (Fundamentals), Bash
+- ⚡ &nbsp; **Low-Level:** Custom Kernels, Assemblers, Interrupt Handling, no_std
+- 📊 &nbsp; **Systems:** Order State Machines, WebSockets, gRPC, Concurrency
+- 💎 &nbsp; **Infrastructure:** Kubernetes (CKA), Terraform, Linux (LFCS), Docker
+- ☁️ &nbsp; **Cloud:** AWS, GCP (PCA), OpenStack (COA)
+- 🗄️ &nbsp; **Data:** PostgreSQL, MongoDB, Redis
 
 <br/>
 
