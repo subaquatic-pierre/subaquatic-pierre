@@ -11,10 +11,15 @@ I enjoy building performant software, experimenting with low-level systems, and 
 
 <h3>🛠 Technical Arsenal</h3>
 
-<p>
-Rust • TypeScript • React • Next.js • PostgreSQL • Docker • Linux 
-</p>
-<br/>
+<ul>
+  <li>🦀 Rust</li>
+  <li>📘 TypeScript</li>
+  <li>⚛️ React</li>
+  <li>▲ Next.js</li>
+  <li>🐘 PostgreSQL</li>
+  <li>🐳 Docker</li>
+  <li>🐧 Linux</li>
+</ul>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
