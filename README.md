@@ -2,15 +2,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+<p>
+Software engineer focused on frontend, backend, Rust, distributed systems.<br/>
+I enjoy building performant software, experimenting with low-level systems, and developing trading tools & infrastructure.
+</p>
+
 
 
 <h3>🛠 Technical Arsenal</h3>
 
-
-- 💎 &nbsp; **Infrastructure:** Kubernetes (CKA), Terraform, Linux (LFCS), Docker
-- ☁️ &nbsp; **Cloud:** AWS, GCP (PCA), OpenStack (COA)
-- 🗄️ &nbsp; **Data:** PostgreSQL, MongoDB, Redis
-
+<p>
+Rust • TypeScript • React • Next.js • PostgreSQL • Docker • Linux 
+</p>
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
