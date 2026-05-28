@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <p>
-Software engineer focused on frontend, backend, Rust, distributed systems.<br/>
+Software engineer focused on frontend, backend, and distributed systems.<br/>
 I enjoy building performant software, experimenting with low-level systems, and developing trading tools & infrastructure.
 </p>
 
