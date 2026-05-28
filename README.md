@@ -2,16 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- ⚙️ &nbsp; **Systems & Performance Engineer** specializing in Rust.
-- 📈 &nbsp; **Quant Developer** focused on low-latency trading engines.
-- 🏗️ &nbsp; **Multi-Certified Cloud Architect** (CKA, GCP-PCA, AWS).
-- 🌠 &nbsp; **First-Principles Problem Solver** from kernels to distributed systems.
+
 
 <h3>🛠 Technical Arsenal</h3>
 
-- 🦀 &nbsp; **Languages:** Rust (Expert), Python, C++ (Fundamentals), Bash
-- ⚡ &nbsp; **Low-Level:** Custom Kernels, Assemblers, Interrupt Handling, no_std
-- 📊 &nbsp; **Systems:** Order State Machines, WebSockets, gRPC, Concurrency
+
 - 💎 &nbsp; **Infrastructure:** Kubernetes (CKA), Terraform, Linux (LFCS), Docker
 - ☁️ &nbsp; **Cloud:** AWS, GCP (PCA), OpenStack (COA)
 - 🗄️ &nbsp; **Data:** PostgreSQL, MongoDB, Redis
