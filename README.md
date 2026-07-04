@@ -18,6 +18,6 @@
 - [**raderbot**](https://github.com/subaquatic-pierre/raderbot) — Real-time crypto trading bot in Rust (WebSocket, market data analysis).
 
 **Outside of work:**
-I am a Technical Scuba diving instructor, so when I am not enginnering Cloud Systems I am scuba diving 
+🌊 I am a Technical Scuba diving instructor, so when I am not engineering Cloud Systems I am scuba diving 🤿
 
-[LinkedIn](https://linkedin.com/in/subaquatic-pierre)
+💼 [LinkedIn](https://linkedin.com/in/subaquatic-pierre)
