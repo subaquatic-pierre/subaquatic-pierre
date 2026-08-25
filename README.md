@@ -1,17 +1,18 @@
 ### Hey, I'm Pierre 👋
 
-**Senior Cloud Systems Engineer** based in Dubai. I design, deploy, and operate distributed systems and cloud infrastructure.
+**Senior Full Stack Engineer / Cloud Architect** based in Dubai. I own and oversee products end to end while leading a small engineering team.
 
 **What I do:**
-- ☁️ **Cloud & Infrastructure** — OpenStack, AWS, GCP, Terraform. Infrastructure as code across public and private clouds.
-- 🐳 **Kubernetes & Docker** — Certified Kubernetes Administrator. Multi-tenant cluster design, deployment, and operations. Docker Compose for local development through to production Kubernetes.
-- 🦀 **Systems Engineering** — Rust for high-performance services and tooling. Python and Bash for automation and scripting. I also study CPU microarchitecture in my free time.
-- 🔁 **DevOps & Automation** — Git workflows, CI/CD pipelines, automated deployments, scripting, and safety gates.
-- 🗄️ **Data** — PostgreSQL, MongoDB. Performance tuning, clustering, and operational management.
+
+- 🧩 **Product engineering** — Next.js, React, and TypeScript for polished, production-ready web products.
+- 🐍 **Backend development** — Python, Rust, Django, Flask, and FastAPI, with REST and GraphQL APIs.
+- 🗄️ **Data** — PostgreSQL, MongoDB, and Redis for reliable, secure application data flows.
+- ☁️ **Cloud architecture** — AWS, GCP, OpenStack, and Terraform across public and private clouds.
+- 🚀 **Delivery & operations** — Kubernetes, Docker, CI/CD, and dependable deployment from development to production.
 
 **Certified in:** CKA · OpenStack · Google Cloud Architect · AWS · Azure · LFCS
 
-**Beyong the Cloud:**
-🌊 I am a Technical Scuba diving instructor, when I am not engineering Cloud Systems I am scuba diving 🤿
+**Beyond the Cloud:**
+🌊 I am a Technical Scuba Diving Instructor; when I am not engineering, I am scuba diving 🤿
 
-💼 [LinkedIn](https://linkedin.com/in/subaquatic-pierre)
+🔗 [StackOps](https://stackops.link) · 💼 [LinkedIn](https://www.linkedin.com/in/subaquatic-pierre/)
