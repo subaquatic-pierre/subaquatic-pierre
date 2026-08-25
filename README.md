@@ -1,6 +1,6 @@
 ### Hey, I'm Pierre 👋
 
-**Senior Full Stack Engineer / Cloud Architect** based in Dubai
+**Senior Full Stack Engineer | Cloud Architect**
 
 **What I do:**
 
